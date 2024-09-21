@@ -47,6 +47,9 @@ To run the Mandelbrot fractal renderer, use the following command:
 cargo run
 ```
 
+<img width="803" alt="Screenshot 2024-09-21 at 6 39 47 PM" src="https://github.com/user-attachments/assets/b50de021-524c-4af8-8634-148ee2805090">
+
+
 ### Controls
 
 - **ESC**: Exit the application.
